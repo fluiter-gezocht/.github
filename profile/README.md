@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=iOS App&color=275D93" />
   </a>
   
-  <a href="[https://github.com/openmultiplayer/open.mp/releases](https://play.google.com/store/apps/details?id=net.azurewebsites.multiplatformapp)">
+  <a href="https://play.google.com/store/apps/details?id=net.azurewebsites.multiplatformapp">
     <img src="https://img.shields.io/static/v1?label=&message=Android App&color=275D93" />
   </a>
 </p>
